@@ -1,0 +1,6 @@
+Please find the full dataset here: 
+https://drive.google.com/file/d/1rciCwRccPKInAsWvO6e2nwwDuF0-7jCE/view?usp=drive_link
+
+Please find the dataset that is ready for model training here: 
+https://drive.google.com/file/d/1rhmErXIpoMi2HrhAWFSC5wBx5v2hCViy/view?usp=drive_link 
+
